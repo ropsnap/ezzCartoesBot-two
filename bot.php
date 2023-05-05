@@ -702,7 +702,6 @@ bot("send",
 
 //Mensagem enviada se o comando /start foi chamado
 
-}
 
 if(strpos($texto, "/enviar") === 0){
 
