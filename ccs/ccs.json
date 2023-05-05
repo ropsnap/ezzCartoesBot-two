@@ -1,0 +1,767 @@
+{
+    "4349950996077010": {
+        "lista": "4349950996077010|10|2021|093",
+        "bin": "434995",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "LEADER, S.A. ADMINISTRADORA DE CARTOES DE CREDITO",
+        "pais": "BR"
+    },
+    "4121771716214129": {
+        "lista": "4121771716214129|09|2024|910",
+        "bin": "412177",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+        "pais": "BR"
+    },
+    "4329584401677017": {
+        "lista": "4329584401677017|09|2025|331",
+        "bin": "432958",
+        "nivel": "ELECTRON",
+        "bandeira": "VISA",
+        "tipo": "DEBIT",
+        "banco": "COOP BANK AB",
+        "pais": "SE"
+    },
+    "4271673961435011": {
+        "lista": "4271673961435011|08|2024|436",
+        "bin": "427167",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO, S.A.",
+        "pais": "BR"
+    },
+    "4066699915909859": {
+        "lista": "4066699915909859|12|2023|896",
+        "bin": "406669",
+        "nivel": "INFINITE",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO CARTOES, S.A.",
+        "pais": "BR"
+    },
+    "5345430567251022": {
+        "lista": "5345430567251022|06|2027|973",
+        "bin": "534543",
+        "nivel": "GOLD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO ORIGINAL",
+        "pais": "BR"
+    },
+    "4415243600676198": {
+        "lista": "4415243600676198|02|2029|689",
+        "bin": "441524",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "5464529647618483": {
+        "lista": "5464529647618483|05|2024|302",
+        "bin": "546452",
+        "nivel": "GOLD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4590800271570104": {
+        "lista": "4590800271570104|02|2027|294",
+        "bin": "459080",
+        "nivel": "PLATINUM",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "5253201309360417": {
+        "lista": "5253201309360417|09|2026|574",
+        "bin": "525320",
+        "nivel": "ELECTRONIC",
+        "bandeira": "MASTERCARD",
+        "tipo": "DEBIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "4984087024655408": {
+        "lista": "4984087024655408|03|2026|231",
+        "bin": "498408",
+        "nivel": "INFINITE",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4984319034460085": {
+        "lista": "4984319034460085|12|2021|426",
+        "bin": "498431",
+        "nivel": "BUSINESS",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "6504872013028881": {
+        "lista": "6504872013028881|12|2024|843",
+        "bin": "650487",
+        "nivel": "PERSONAL",
+        "bandeira": "DISCOVER",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "5307802869329605": {
+        "lista": "5307802869329605|10|2028|922",
+        "bin": "530780",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "5345160252110932": {
+        "lista": "5345160252110932|07|2027|847",
+        "bin": "534516",
+        "nivel": "GOLD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "4271674378889030": {
+        "lista": "4271674378889030|05|2025|171",
+        "bin": "427167",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO, S.A.",
+        "pais": "BR"
+    },
+    "5443158585968555": {
+        "lista": "5443158585968555|10|2025|963",
+        "bin": "544315",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "RENNER ADMINISTRADORA DE CARTOES DE CREDITO LTDA",
+        "pais": "BR"
+    },
+    "4984531218209407": {
+        "lista": "4984531218209407|03|2026|685",
+        "bin": "498453",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4108634055630007": {
+        "lista": "4108634055630007|02|2028|427",
+        "bin": "410863",
+        "nivel": "GOLD",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4220536998172034": {
+        "lista": "4220536998172034|04|2023|826",
+        "bin": "422053",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO, S.A.",
+        "pais": "BR"
+    },
+    "2227633467525037": {
+        "lista": "2227633467525037|04|2029|706",
+        "bin": "222763",
+        "nivel": "MASTERCARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "",
+        "banco": "</td><td></td><td>",
+        "pais": ""
+    },
+    "6505161023717272": {
+        "lista": "6505161023717272|10|2023|346",
+        "bin": "650516",
+        "nivel": "PERSONAL",
+        "bandeira": "DISCOVER",
+        "tipo": "CREDIT",
+        "banco": "CARTAO DE CREDITO PERNAMBUCANAS",
+        "pais": "BR"
+    },
+    "5345401288440012": {
+        "lista": "5345401288440012|05|2028|886",
+        "bin": "534540",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO ORIGINAL",
+        "pais": "BR"
+    },
+    "5534501144465011": {
+        "lista": "5534501144465011|04|2027|834",
+        "bin": "553450",
+        "nivel": "CORPORATE",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO PAN, S.A.",
+        "pais": "BR"
+    },
+    "4984085011695049": {
+        "lista": "4984085011695049|11|2021|123",
+        "bin": "498408",
+        "nivel": "INFINITE",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "5448910178178124": {
+        "lista": "5448910178178124|06|2024|509",
+        "bin": "544891",
+        "nivel": "GOLD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "5316810370039729": {
+        "lista": "5316810370039729|11|2028|918",
+        "bin": "531681",
+        "nivel": "PLATINUM",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "4444562544008647": {
+        "lista": "4444562544008647|11|2025|319",
+        "bin": "444456",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "5148680326615763": {
+        "lista": "5148680326615763|01|2028|250",
+        "bin": "514868",
+        "nivel": "PLATINUM",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "4532111110953134": {
+        "lista": "4532111110953134|12|2024|242",
+        "bin": "453211",
+        "nivel": "GOLD",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO CARTOES, S.A.",
+        "pais": "BR"
+    },
+    "5148680323301706": {
+        "lista": "5148680323301706|09|2027|098",
+        "bin": "514868",
+        "nivel": "PLATINUM",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "6509140002866843": {
+        "lista": "6509140002866843|07|2023|356",
+        "bin": "650914",
+        "nivel": "PERSONAL",
+        "bandeira": "DISCOVER",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO, S.A.",
+        "pais": "BR"
+    },
+    "5447315647467333": {
+        "lista": "5447315647467333|05|2028|683",
+        "bin": "544731",
+        "nivel": "GOLD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4854644123198495": {
+        "lista": "4854644123198495|02|2026|261",
+        "bin": "485464",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "5149450724073463": {
+        "lista": "5149450724073463|02|2029|443",
+        "bin": "514945",
+        "nivel": "PLATINUM",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "6504859913661820": {
+        "lista": "6504859913661820|07|2022|494",
+        "bin": "650485",
+        "nivel": "PERSONAL",
+        "bandeira": "DISCOVER",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO, S.A.",
+        "pais": "BR"
+    },
+    "4329582410631017": {
+        "lista": "4329582410631017|06|2024|108",
+        "bin": "432958",
+        "nivel": "ELECTRON",
+        "bandeira": "VISA",
+        "tipo": "DEBIT",
+        "banco": "COOP BANK AB",
+        "pais": "SE"
+    },
+    "5256632216781195": {
+        "lista": "5256632216781195|02|2029|847",
+        "bin": "525663",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "4984319047644824": {
+        "lista": "4984319047644824|06|2028|625",
+        "bin": "498431",
+        "nivel": "BUSINESS",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4230714000354985": {
+        "lista": "4230714000354985|11|2024|141",
+        "bin": "423071",
+        "nivel": "PLATINUM",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "",
+        "pais": "BR"
+    },
+    "4444562560168234": {
+        "lista": "4444562560168234|03|2025|884",
+        "bin": "444456",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4073038933782769": {
+        "lista": "4073038933782769|09|2023|719",
+        "bin": "407303",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "5305990618675691": {
+        "lista": "5305990618675691|03|2029|464",
+        "bin": "530599",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "4258502311223685": {
+        "lista": "4258502311223685|03|2028|242",
+        "bin": "425850",
+        "nivel": "INFINITE",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4984536217585608": {
+        "lista": "4984536217585608|02|2026|486",
+        "bin": "498453",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4532117160897261": {
+        "lista": "4532117160897261|06|2022|081",
+        "bin": "453211",
+        "nivel": "GOLD",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO CARTOES, S.A.",
+        "pais": "BR"
+    },
+    "4532117165574204": {
+        "lista": "4532117165574204|10|2024|170",
+        "bin": "453211",
+        "nivel": "GOLD",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO CARTOES, S.A.",
+        "pais": "BR"
+    },
+    "4107153773097101": {
+        "lista": "4107153773097101|01|2025|997",
+        "bin": "410715",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO CARTOES, S.A.",
+        "pais": "BR"
+    },
+    "4705980084134520": {
+        "lista": "4705980084134520|02|2026|694",
+        "bin": "470598",
+        "nivel": "PLATINUM",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "5228400077790464": {
+        "lista": "5228400077790464|03|2028|981",
+        "bin": "522840",
+        "nivel": "BLACK",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4984534213700503": {
+        "lista": "4984534213700503|10|2025|004",
+        "bin": "498453",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4061683416964287": {
+        "lista": "4061683416964287|12|2025|067",
+        "bin": "406168",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO CSF, S.A.",
+        "pais": "BR"
+    },
+    "4220612119324778": {
+        "lista": "4220612119324778|06|2027|497",
+        "bin": "422061",
+        "nivel": "PLATINUM",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "6363680103005119": {
+        "lista": "6363680103005119|06|2022|819",
+        "bin": "636368",
+        "nivel": "BASICO",
+        "bandeira": "ELO",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO, S.A.",
+        "pais": "BR"
+    },
+    "2306502530972852": {
+        "lista": "2306502530972852|02|2026|129",
+        "bin": "230650",
+        "nivel": "MASTERCARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "",
+        "banco": "</td><td></td><td>",
+        "pais": ""
+    },
+    "4096003011381150": {
+        "lista": "4096003011381150|01|2026|538",
+        "bin": "409600",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO CARTOES, S.A.",
+        "pais": "BR"
+    },
+    "5300341146105519": {
+        "lista": "5300341146105519|05|2026|295",
+        "bin": "530034",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO CSF, S.A.",
+        "pais": "BR"
+    },
+    "5208982048529133": {
+        "lista": "5208982048529133|12|2027|726",
+        "bin": "520898",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO PAN, S.A.",
+        "pais": "BR"
+    },
+    "5447318293785164": {
+        "lista": "5447318293785164|11|2027|820",
+        "bin": "544731",
+        "nivel": "GOLD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4066559954642425": {
+        "lista": "4066559954642425|03|2024|239",
+        "bin": "406655",
+        "nivel": "PLATINUM",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO CARTOES, S.A.",
+        "pais": "BR"
+    },
+    "5447315696887654": {
+        "lista": "5447315696887654|12|2027|342",
+        "bin": "544731",
+        "nivel": "GOLD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4745257204316630": {
+        "lista": "4745257204316630|11|2024|867",
+        "bin": "474525",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "RENNER ADMINISTRADORA DE CARTO",
+        "pais": "BR"
+    },
+    "5457190291152177": {
+        "lista": "5457190291152177|09|2025|262",
+        "bin": "545719",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "6505169035474295": {
+        "lista": "6505169035474295|05|2023|366",
+        "bin": "650516",
+        "nivel": "PERSONAL",
+        "bandeira": "DISCOVER",
+        "tipo": "CREDIT",
+        "banco": "CARTAO DE CREDITO PERNAMBUCANAS",
+        "pais": "BR"
+    },
+    "5547730068235010": {
+        "lista": "5547730068235010|03|2026|237",
+        "bin": "554773",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO DE BRASILIA, S.A.",
+        "pais": "BR"
+    },
+    "4066699917743405": {
+        "lista": "4066699917743405|01|2024|817",
+        "bin": "406669",
+        "nivel": "INFINITE",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO CARTOES, S.A.",
+        "pais": "BR"
+    },
+    "4230715000588878": {
+        "lista": "4230715000588878|06|2025|590",
+        "bin": "423071",
+        "nivel": "PLATINUM",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "",
+        "pais": "BR"
+    },
+    "4984077114512429": {
+        "lista": "4984077114512429|12|2021|291",
+        "bin": "498407",
+        "nivel": "GOLD",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4590800361082002": {
+        "lista": "4590800361082002|10|2026|276",
+        "bin": "459080",
+        "nivel": "PLATINUM",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "5443156551350618": {
+        "lista": "5443156551350618|09|2022|808",
+        "bin": "544315",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "RENNER ADMINISTRADORA DE CARTOES DE CREDITO LTDA",
+        "pais": "BR"
+    },
+    "5454309133184015": {
+        "lista": "5454309133184015|09|2027|545",
+        "bin": "545430",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO PAN, S.A.",
+        "pais": "BR"
+    },
+    "4901720777694998": {
+        "lista": "4901720777694998|10|2025|686",
+        "bin": "490172",
+        "nivel": "PLATINUM",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "5447318300101736": {
+        "lista": "5447318300101736|02|2028|846",
+        "bin": "544731",
+        "nivel": "GOLD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "6504955114984100": {
+        "lista": "6504955114984100|05|2025|215",
+        "bin": "650495",
+        "nivel": "PERSONAL",
+        "bandeira": "DISCOVER",
+        "tipo": "CREDIT",
+        "banco": "BANCO BRADESCO, S.A.",
+        "pais": "BR"
+    },
+    "4984083022839037": {
+        "lista": "4984083022839037|10|2025|999",
+        "bin": "498408",
+        "nivel": "INFINITE",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4984536208575626": {
+        "lista": "4984536208575626|05|2025|567",
+        "bin": "498453",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "5267690640158932": {
+        "lista": "5267690640158932|05|2024|200",
+        "bin": "526769",
+        "nivel": "PLATINUM/WORLD/STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "5485140230247063": {
+        "lista": "5485140230247063|01|2028|060",
+        "bin": "548514",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "ITAU UNIBANCO, S.A.",
+        "pais": "BR"
+    },
+    "4854645070731410": {
+        "lista": "4854645070731410|06|2025|925",
+        "bin": "485464",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4984011040880428": {
+        "lista": "4984011040880428|11|2021|097",
+        "bin": "498401",
+        "nivel": "PLATINUM",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "5502099509641852": {
+        "lista": "5502099509641852|04|2027|288",
+        "bin": "550209",
+        "nivel": "GOLD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "NUBANK",
+        "pais": "BR"
+    },
+    "5428208615055847": {
+        "lista": "5428208615055847|05|2027|014",
+        "bin": "542820",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "5127070252073788": {
+        "lista": "5127070252073788|08|2025|806",
+        "bin": "512707",
+        "nivel": "STANDARD",
+        "bandeira": "MASTERCARD",
+        "tipo": "CREDIT",
+        "banco": "BANCO COOPERATIVO DO BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4415240736249114": {
+        "lista": "4415240736249114|10|2027|140",
+        "bin": "441524",
+        "nivel": "CLASSIC",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "BANCO SANTANDER BRASIL, S.A.",
+        "pais": "BR"
+    },
+    "4230717000575269": {
+        "lista": "4230717000575269|05|2025|603",
+        "bin": "423071",
+        "nivel": "PLATINUM",
+        "bandeira": "VISA",
+        "tipo": "CREDIT",
+        "banco": "",
+        "pais": "BR"
+    }
+}       
